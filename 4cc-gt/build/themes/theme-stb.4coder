@@ -43,3 +43,10 @@ defcolor_text_cycle = {0xFFA00000, 0xFF00A000, 0xFF0000A0, 0xFFA0A000};
 
 defcolor_line_numbers_back = 0xFF808080;
 defcolor_line_numbers_text = 0xFFD6D6D6;
+
+
+// Fleury
+fleury_color_cursor_inactive       = 0xFF880000;
+
+fleury_color_token_highlight       = 0xFF005800;
+fleury_color_token_minor_highlight = 0xC0797979;
